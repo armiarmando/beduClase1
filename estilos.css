@@ -1,0 +1,17 @@
+h1{
+ color: red;
+}
+
+.cabecera{
+   color: #46484c; 
+}
+
+
+#botonSend{
+    background-color:#025157;
+    text-emphasis-color: #fff;
+}
+
+body{
+   background-color: #fffbf7; 
+}
